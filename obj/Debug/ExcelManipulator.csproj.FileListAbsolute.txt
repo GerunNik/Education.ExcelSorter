@@ -1,0 +1,11 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\bin\Debug\ExcelManipulater.exe.config
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\bin\Debug\ExcelManipulater.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\bin\Debug\ExcelManipulater.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\obj\Debug\ExcelManipulator.csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\obj\Debug\ExcelManipulator.csproj.ResolveComReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\obj\Debug\ExcelManipulater.Form1.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\obj\Debug\ExcelManipulater.Properties.Resources.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\obj\Debug\ExcelManipulator.csproj.GenerateResource.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\obj\Debug\ExcelManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\obj\Debug\ExcelManipulater.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ExcelManipulater\obj\Debug\ExcelManipulater.pdb
